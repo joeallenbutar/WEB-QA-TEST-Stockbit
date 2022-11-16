@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Git Pocket Guide</name>
+   <tag></tag>
+   <elementGuidId>f7b0874e-a802-41b4-9d20-772528da7183</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//label[@id='userName-value'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#title-wrapper > div.col-md-9.col-sm-12 > #userName-value</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>63ec209a-8ca8-4989-9a8f-c802819219db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label</value>
+      <webElementGuid>d6d508fb-2907-478a-bfea-1ef3e23b7cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#000000</value>
+      <webElementGuid>ca67a87a-14c2-4997-9def-98c9b445e395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>userName-value</value>
+      <webElementGuid>7f2fe1fb-5f1d-4088-a4bd-6580707407fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Git Pocket Guide</value>
+      <webElementGuid>6318752c-c4ce-489d-96c8-46082fe2812d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;title-wrapper&quot;)/div[@class=&quot;col-md-9 col-sm-12&quot;]/label[@id=&quot;userName-value&quot;]</value>
+      <webElementGuid>36d462ee-2917-43f1-9a39-947c44bb6176</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//label[@id='userName-value'])[2]</value>
+      <webElementGuid>683e6f4c-b73e-4896-a5ba-be5f1457fe25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='title-wrapper']/div[2]/label</value>
+      <webElementGuid>2f428b67-8576-42ca-be9a-27231258701c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title :'])[1]/following::label[1]</value>
+      <webElementGuid>dc66bb0a-b9c3-4c19-b1e2-8e01559d52c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ISBN :'])[1]/following::label[3]</value>
+      <webElementGuid>54ce9b63-ce82-4749-84cf-6496fa45f660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Title :'])[1]/preceding::label[1]</value>
+      <webElementGuid>159df8f5-77a5-415a-99eb-8ec8bf8822db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A Working Introduction'])[1]/preceding::label[2]</value>
+      <webElementGuid>6262eb5d-d66c-4aa5-ad78-56a68b7fc269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Git Pocket Guide']/parent::*</value>
+      <webElementGuid>384b0f9b-e666-4726-86a9-70b3043464de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/label</value>
+      <webElementGuid>373972fd-4e64-49f7-bb13-91840ad73520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'userName-value' and (text() = 'Git Pocket Guide' or . = 'Git Pocket Guide')]</value>
+      <webElementGuid>20ee185d-faec-4a08-9a76-98d4092e150b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

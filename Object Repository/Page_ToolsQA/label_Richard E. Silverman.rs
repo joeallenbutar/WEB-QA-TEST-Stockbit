@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Richard E. Silverman</name>
+   <tag></tag>
+   <elementGuidId>c46c8f59-b389-4c4b-b1a8-4b957bd74b49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//label[@id='userName-value'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#author-wrapper > div.col-md-9.col-sm-12 > #userName-value</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>45ca3d92-bad6-47e3-a36c-e91562f1e736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label</value>
+      <webElementGuid>6feb6d6b-1cee-4e58-9cff-98e0ca6d1444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#000000</value>
+      <webElementGuid>d65b16f7-5947-4383-9820-39af73ad9f74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>userName-value</value>
+      <webElementGuid>095f3c1a-c1d9-49ce-a975-c46293216f4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Richard E. Silverman</value>
+      <webElementGuid>a61fb096-c423-48f2-80f2-2bd4a8db1d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;author-wrapper&quot;)/div[@class=&quot;col-md-9 col-sm-12&quot;]/label[@id=&quot;userName-value&quot;]</value>
+      <webElementGuid>0273ddf1-65a9-4049-b817-41b4140c4d59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//label[@id='userName-value'])[4]</value>
+      <webElementGuid>582e872a-7d0b-4b3d-9258-d8aab46ba625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='author-wrapper']/div[2]/label</value>
+      <webElementGuid>ce7b11ea-71b6-46b7-9d9a-f049e10bdfa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Author :'])[1]/following::label[1]</value>
+      <webElementGuid>371884e2-0b60-49cd-92fe-dff452fe2e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A Working Introduction'])[1]/following::label[2]</value>
+      <webElementGuid>a7940182-8c3a-4bb1-833d-0bb3f4e6bfbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publisher :'])[1]/preceding::label[1]</value>
+      <webElementGuid>61fa6525-c621-42ee-954b-671daafc91dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('O', &quot;'&quot;, 'Reilly Media')])[1]/preceding::label[2]</value>
+      <webElementGuid>b9fae4e8-616a-44b3-b267-66ff4760f613</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Richard E. Silverman']/parent::*</value>
+      <webElementGuid>32324dfa-66d2-4ed8-9e4a-c6b1862a4b4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/label</value>
+      <webElementGuid>c476cb61-7823-41ad-baf5-283aa47410f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'userName-value' and (text() = 'Richard E. Silverman' or . = 'Richard E. Silverman')]</value>
+      <webElementGuid>c95fe0b3-26dc-432d-b9b6-e5660b394d0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
